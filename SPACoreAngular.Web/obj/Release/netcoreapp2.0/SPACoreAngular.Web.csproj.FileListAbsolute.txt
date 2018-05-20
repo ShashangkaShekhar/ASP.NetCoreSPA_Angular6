@@ -1,0 +1,10 @@
+D:\Article\SPACoreAngular\SPACoreAngular\SPACoreAngular.Web\bin\Release\netcoreapp2.0\SPACoreAngular.Web.deps.json
+D:\Article\SPACoreAngular\SPACoreAngular\SPACoreAngular.Web\bin\Release\netcoreapp2.0\SPACoreAngular.Web.runtimeconfig.json
+D:\Article\SPACoreAngular\SPACoreAngular\SPACoreAngular.Web\bin\Release\netcoreapp2.0\SPACoreAngular.Web.runtimeconfig.dev.json
+D:\Article\SPACoreAngular\SPACoreAngular\SPACoreAngular.Web\bin\Release\netcoreapp2.0\SPACoreAngular.Web.dll
+D:\Article\SPACoreAngular\SPACoreAngular\SPACoreAngular.Web\bin\Release\netcoreapp2.0\SPACoreAngular.Web.pdb
+D:\Article\SPACoreAngular\SPACoreAngular\SPACoreAngular.Web\obj\Release\netcoreapp2.0\SPACoreAngular.Web.csproj.CoreCompileInputs.cache
+D:\Article\SPACoreAngular\SPACoreAngular\SPACoreAngular.Web\obj\Release\netcoreapp2.0\SPACoreAngular.Web.AssemblyInfoInputs.cache
+D:\Article\SPACoreAngular\SPACoreAngular\SPACoreAngular.Web\obj\Release\netcoreapp2.0\SPACoreAngular.Web.AssemblyInfo.cs
+D:\Article\SPACoreAngular\SPACoreAngular\SPACoreAngular.Web\obj\Release\netcoreapp2.0\SPACoreAngular.Web.dll
+D:\Article\SPACoreAngular\SPACoreAngular\SPACoreAngular.Web\obj\Release\netcoreapp2.0\SPACoreAngular.Web.pdb

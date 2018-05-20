@@ -1,0 +1,42 @@
+﻿<div class="wrapper">
+    <div class="sidebar" data-background-color="black" data-active-color="warning">
+        <div class="sidebar-wrapper">
+            <div class="logo">
+                <a href="" class="simple-text">
+                    CORE-System
+                </a>
+            </div>
+            <ul class="nav">
+                <li class="active">
+                    <a href="javascript:void(0)" routerLink="/home">
+                        <i class="ti-panel"></i>
+                        <p>Home</p>
+                    </a>
+                </li>
+                <li>
+                    <a href="javascript:void(0)" routerLink="/user">
+                        <i class="ti-user"></i>
+                        <p>User Profiles</p>
+                    </a>
+                </li>
+                <li>
+                    <a href="javascript:void(0)" routerLink="/about">
+                        <i class="ti-export"></i>
+                        <p>About</p>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="main-panel">
+        <nav class="navbar navbar-default">
+
+        </nav>
+        <div class="content">
+            <router-outlet></router-outlet>
+        </div>
+        <footer class="footer">
+            
+        </footer>
+    </div>
+</div>
